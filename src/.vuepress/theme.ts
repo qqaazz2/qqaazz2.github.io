@@ -10,7 +10,7 @@ export default hopeTheme({
     name: "Qqaazz2",
   },
   logo: "/logo.png",
-  repo: "qqaazz2/blog",
+  repo: "qqaazz2/qqaazz2.github.io",
   docsDir: "src",
   blog: {
     medias: {
@@ -188,7 +188,6 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.

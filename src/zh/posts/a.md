@@ -5,9 +5,14 @@ author: "qqaazz2"
 cover: /assets/images/dreader-logo.png
 tags: [Flutter, Dart, EPUB, 自定义渲染,Dreader]
 star: true
+isOriginal: true
+pageview: true
 category:
   - Dreader
+description: 作为一个小说狂热爱好者，我亲手做了一个属于自己的 EPUB 阅读器。文章记录了我从零开始的探索过程：解析 EPUB、重写 CSS、构建节点树、实现分页渲染……一路走来既有挑战，也充满乐趣。
 ---
+
+> **项目源码地址**：[https://github.com/qqaazz2/dreader](https://github.com/qqaazz2/dreader)
 
 ## 前言
 
